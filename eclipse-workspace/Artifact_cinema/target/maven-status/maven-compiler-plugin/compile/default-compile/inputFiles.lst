@@ -1,3 +1,4 @@
+C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S05Drink_Request\DrinkServiceGrpc.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S03Cinema_Lights\LightsRequestOrBuilder.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S03Cinema_Lights\S03CLIENT.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S04Cinema_Admission\S04CinemaAdmission.java
@@ -9,16 +10,21 @@ C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S01Seat_Heating\S
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S02Seat_Water\ActivateRequest.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S02Seat_Water\S02CLIENT.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S02Seat_Water\S02SeatWaterGrpc.java
+C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S05Drink_Request\DrinkResponse.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S01Seat_Heating\CinemaImmersiveGrpc.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S02Seat_Water\S02SERVER.java
+C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S05Drink_Request\DrinkRequest.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S04Cinema_Admission\TicketResponse.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S02Seat_Water\ActivateResponse.java
+C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S05Drink_Request\DrinkResponseOrBuilder.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S04Cinema_Admission\TicketRequestOrBuilder.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S03Cinema_Lights\LightsResponse.java
+C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S05Drink_Request\DrinkRequestOrBuilder.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S04Cinema_Admission\TicketRequest.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S03Cinema_Lights\CinemaLightsServiceGrpc.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S03Cinema_Lights\S03CinemaLights.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S03Cinema_Lights\S03SERVER.java
+C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S05Drink_Request\S05CinemaAdmission.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S04Cinema_Admission\TicketResponseOrBuilder.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S02Seat_Water\ActivateResponseOrBuilder.java
 C:\Users\regin\eclipse-workspace\Artifact_cinema\src\main\java\S02Seat_Water\ActivateRequestOrBuilder.java

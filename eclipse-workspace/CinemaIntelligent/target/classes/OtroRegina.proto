@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "CinemaIntelligent";
+option java_outer_classname = "OtroService";
+
+service ImmersiveWater {
+    rpc ActivateWaterImwwwwmersiveFeature (ActivateRequest) returns (ActivateResponse);
+}
+
+message ActivateRequest {
+    bool activate = 1;
+}
+
+message ActivateResponse {
+    string message = 1;
+}

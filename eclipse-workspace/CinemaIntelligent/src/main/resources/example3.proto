@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+
+option java_multiple_files = true;
+option java_package = "CinemaIntelligent";
+option java_outer_classname = "CinemaImmersiveServiceIm122222pl";
+
+package CinemaIntelligent;
+
+// Interface exported by the server.
+//This service is the called SeatTemperature in the proposal Document. 
+service CinemaImmersive {
+
+  rpc a (ActivateRequest) returns (ActivateResponse) {}
+  
+ }
+ 
+ // 
+message ActivateRequest {
+  string name = 1;
+ }
+
+// 
+message ActivateResponse {
+  string message = 1;
+ }
+
+  
+  
+  
+  
+  
+  
+
+  
